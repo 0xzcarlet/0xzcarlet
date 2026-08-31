@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm zull from earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Micro Services <br>- ⚡ In my free time I do watching anime, movie and reading book, novel, manhua, manhwa. article.</p>
+<p align="left">I'm zull from earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Microservices <br>- ⚡ In my free time I do watching anime, movie and reading book, novel, manhua, manhwa. article.</p>
 
 ###
 
