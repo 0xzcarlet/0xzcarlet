@@ -52,5 +52,11 @@
 <img
   src="https://wakatime.com/share/@alexanderzul/92cbd843-057c-47cc-8738-2013b20f6ebb.svg"
   alt="WakaTime Stats"
+  width="500"
+/>
+<img
+  src="https://wakatime.com/share/@alexanderzul/3035c75d-93dc-425b-ba88-4b433eb8b64f.svg"
+  alt="WakaTime Stats"
+  width="500"
 />
 
