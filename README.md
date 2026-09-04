@@ -47,5 +47,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<figure><embed src="https://wakatime.com/share/@alexanderzul/ed3611f7-b326-4a66-abc1-b9c6d177039f.svg"></embed></figure>
+<br>
+<br>
+<img
+  src="https://wakatime.com/share/@alexanderzul/92cbd843-057c-47cc-8738-2013b20f6ebb.svg"
+  alt="WakaTime Stats"
+/>
 
